@@ -1,0 +1,26 @@
+name: pomodoro_timer
+description: Pomodoro Timer with Flutter
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  numberpicker: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: lib/fonts/Ubuntu-Regular.ttf
+        - asset: lib/fonts/Ubuntu-Medium.ttf
+        - asset: lib/fonts/Ubuntu-Light.ttf
