@@ -1,16 +1,38 @@
-# pomodoro_timer
+# Pomodoro Timer
 
-A new Flutter project.
+Pomodoro Timer App with Flutter
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Directory Structure
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+project
+│   android
+│   build
+│   ios
+└───lib
+│   │   components
+│   │   fonts
+│   │   models
+│   │   screens
+│
+│   test
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Todo
+
+- [x] Settings Bottom Sheet Modal
+- [x] Custom Circle Timer
+- [x] Play Button
+- [x] Number Pickers
+- [x] Sound and Vibration Switchs
+- [ ] Bloc - State Management
+
+## Design
+
+<img width="500" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8ec2be90157331.5e0f74c05a8c6.png"/>
+
+Behance : https://www.behance.net/gallery/90157331/Pomodoro-Timer-App
